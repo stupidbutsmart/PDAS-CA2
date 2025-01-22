@@ -38,6 +38,8 @@ Which industry allows fresh grads to develop the best?
 ---
 
 ## Usage
+**[Video on how to use](https://www.youtube.com/watch?v=Qax_gUTp2Ac)**
+
 Open a new folder in your terminal
 ```pwsh
 mkdir PDAS_CA2
