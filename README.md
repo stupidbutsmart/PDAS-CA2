@@ -1,11 +1,11 @@
 # CA2
 ---
 ## Content
-- [Problem Statement](https://github.com/stupidbutsmart/PDAS-CA2/edit/main/README.md#problem-statement)
-- [Datasets](https://github.com/stupidbutsmart/PDAS-CA2/edit/main/README.md#datasets)
-- [Working with Data](https://github.com/stupidbutsmart/PDAS-CA2/edit/main/README.md#ideas-on-working-with-data)
-- [Usage](https://github.com/stupidbutsmart/PDAS-CA2/edit/main/README.md#usage)
-- [Coding Standards/Rules](https://github.com/stupidbutsmart/PDAS-CA2/edit/main/README.md#rulesets)
+- [Problem Statement](https://github.com/stupidbutsmart/PDAS-CA2/?tab=readme-ov-file#problem-statement)
+- [Datasets](https://github.com/stupidbutsmart/PDAS-CA2/?tab=readme-ov-file#datasets)
+- [Working with Data](https://github.com/stupidbutsmart/PDAS-CA2/?tab=readme-ov-file#ideas-on-working-with-data)
+- [Usage](https://github.com/stupidbutsmart/PDAS-CA2/?tab=readme-ov-file#usage)
+- [Coding Standards/Rules](https://github.com/stupidbutsmart/PDAS-CA2/?tab=readme-ov-file#rulesets)
 ---
 
 ## Problem Statement
