@@ -1,0 +1,44 @@
+1:
+  What features impact the salary of a fresh grad in Singapore?
+2:
+  Which industry allows fresh grads to develop the best?
+    - consider 
+      - job stability
+      - growth potential
+      - basic salary
+    - work life balance? 
+
+
+
+------------------------------------------------------
+Choosen Problem Statement:
+  Which industry allows fresh grads to develop themselves the best?
+
+  narrow down to corporate?
+------------------------------------------------------
+
+Potential Datasets:
+  MoM section I (https://stats.mom.gov.sg/Pages/employment-Tables2023.aspx)
+    - Shows job stability / forward job growth potential
+
+  Kaggle corporate work life balance (https://www.kaggle.com/datasets/ashaychoudhary/corporate-stress-dataset-insights-into-workplace)
+
+  Kaggle company reviews (https://www.kaggle.com/datasets/akbarazad/webscraping-indeedcom-singapore-company-reviews)
+
+------------------------------------------------------
+
+Ideas on how to work with data:
+
+Hours - standardize the pay to be by hour
+
+Industry -> NLP the school
+
+Find dataset regarding worklife in industry:
+  - see how relate to salary / employment rate
+
+
+Age - account for ages 23 - 37 (they are grad age range from 2013)
+
+WorkLife balance -> company reviews take keywords
+------------------------------------------------------
+
